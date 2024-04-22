@@ -8,6 +8,10 @@
 
 /* Begin PBXBuildFile section */
 		5BC88E2B81660D17E760AFD0 /* libPods-Diary.a in Frameworks */ = {isa = PBXBuildFile; fileRef = C698A0573804554710F6BA40 /* libPods-Diary.a */; };
+		C137F3FD2BD6A1D400D01F78 /* 1242x2688_home.png in Resources */ = {isa = PBXBuildFile; fileRef = C137F3F92BD6A1D400D01F78 /* 1242x2688_home.png */; };
+		C137F3FE2BD6A1D400D01F78 /* 1242x2688_read.png in Resources */ = {isa = PBXBuildFile; fileRef = C137F3FA2BD6A1D400D01F78 /* 1242x2688_read.png */; };
+		C137F3FF2BD6A1D400D01F78 /* 1242x2268_delete.png in Resources */ = {isa = PBXBuildFile; fileRef = C137F3FB2BD6A1D400D01F78 /* 1242x2268_delete.png */; };
+		C137F4002BD6A1D400D01F78 /* 1242x2268_show_home.png in Resources */ = {isa = PBXBuildFile; fileRef = C137F3FC2BD6A1D400D01F78 /* 1242x2268_show_home.png */; };
 		C1CC165D2BBE23C4008A032F /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = C1CC165C2BBE23C4008A032F /* AppDelegate.m */; };
 		C1CC16682BBE23C6008A032F /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = C1CC16672BBE23C6008A032F /* Assets.xcassets */; };
 		C1CC166B2BBE23C6008A032F /* Base in Resources */ = {isa = PBXBuildFile; fileRef = C1CC166A2BBE23C6008A032F /* Base */; };
@@ -37,6 +41,10 @@
 /* Begin PBXFileReference section */
 		26E39E931675DB4991C1F0EC /* Pods-Diary.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-Diary.release.xcconfig"; path = "Target Support Files/Pods-Diary/Pods-Diary.release.xcconfig"; sourceTree = "<group>"; };
 		4D3FA565A55A9F1670EED2C9 /* Pods-Diary.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-Diary.debug.xcconfig"; path = "Target Support Files/Pods-Diary/Pods-Diary.debug.xcconfig"; sourceTree = "<group>"; };
+		C137F3F92BD6A1D400D01F78 /* 1242x2688_home.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 1242x2688_home.png; sourceTree = "<group>"; };
+		C137F3FA2BD6A1D400D01F78 /* 1242x2688_read.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 1242x2688_read.png; sourceTree = "<group>"; };
+		C137F3FB2BD6A1D400D01F78 /* 1242x2268_delete.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 1242x2268_delete.png; sourceTree = "<group>"; };
+		C137F3FC2BD6A1D400D01F78 /* 1242x2268_show_home.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 1242x2268_show_home.png; sourceTree = "<group>"; };
 		C1CC16582BBE23C4008A032F /* Diary.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Diary.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		C1CC165B2BBE23C4008A032F /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
 		C1CC165C2BBE23C4008A032F /* AppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = AppDelegate.m; sourceTree = "<group>"; };
@@ -120,6 +128,17 @@
 			name = Frameworks;
 			sourceTree = "<group>";
 		};
+		C137F3F82BD6A1BE00D01F78 /* resoure */ = {
+			isa = PBXGroup;
+			children = (
+				C137F3FB2BD6A1D400D01F78 /* 1242x2268_delete.png */,
+				C137F3FC2BD6A1D400D01F78 /* 1242x2268_show_home.png */,
+				C137F3F92BD6A1D400D01F78 /* 1242x2688_home.png */,
+				C137F3FA2BD6A1D400D01F78 /* 1242x2688_read.png */,
+			);
+			path = resoure;
+			sourceTree = "<group>";
+		};
 		C1CC164F2BBE23C4008A032F = {
 			isa = PBXGroup;
 			children = (
@@ -141,6 +160,7 @@
 		C1CC165A2BBE23C4008A032F /* Diary */ = {
 			isa = PBXGroup;
 			children = (
+				C137F3F82BD6A1BE00D01F78 /* resoure */,
 				C1CC16902BBE28D8008A032F /* main */,
 				C1CC16942BBE3A4E008A032F /* businessModule */,
 				C1CC167E2BBE28AD008A032F /* dbModule */,
@@ -404,7 +424,11 @@
 			buildActionMask = 2147483647;
 			files = (
 				C1CC16682BBE23C6008A032F /* Assets.xcassets in Resources */,
+				C137F3FE2BD6A1D400D01F78 /* 1242x2688_read.png in Resources */,
 				C1CC166B2BBE23C6008A032F /* Base in Resources */,
+				C137F4002BD6A1D400D01F78 /* 1242x2268_show_home.png in Resources */,
+				C137F3FF2BD6A1D400D01F78 /* 1242x2268_delete.png in Resources */,
+				C137F3FD2BD6A1D400D01F78 /* 1242x2688_home.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
