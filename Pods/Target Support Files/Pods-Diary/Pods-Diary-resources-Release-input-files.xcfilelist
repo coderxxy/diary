@@ -1,0 +1,5 @@
+${PODS_ROOT}/Target Support Files/Pods-Diary/Pods-Diary-resources.sh
+${PODS_CONFIGURATION_BUILD_DIR}/FMDB/FMDB.bundle
+${PODS_ROOT}/IQKeyboardManager/IQKeyboardManager/Resources/IQKeyboardManager.bundle
+${PODS_ROOT}/JKSearchBar/JKSearchBar/JKSearchBar/JKSearchBar_ICON@2x.png
+${PODS_ROOT}/SVProgressHUD/SVProgressHUD/SVProgressHUD.bundle

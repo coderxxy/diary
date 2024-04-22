@@ -1,0 +1,14 @@
+//
+//  PrefixHeader.pch
+//  Diary
+//
+//  Created by coderXY on 2024/4/4.
+//
+
+#ifndef PrefixHeader_pch
+#define PrefixHeader_pch
+
+#import "Macro.h"
+#import "VendorHeaders.h"
+
+#endif /* PrefixHeader_pch */

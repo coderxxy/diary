@@ -1,0 +1,15 @@
+${PODS_ROOT}/Target Support Files/Pods-Diary/Pods-Diary-frameworks.sh
+${BUILT_PRODUCTS_DIR}/DZNEmptyDataSet/DZNEmptyDataSet.framework
+${BUILT_PRODUCTS_DIR}/FMDB/FMDB.framework
+${BUILT_PRODUCTS_DIR}/GKPhotoBrowser/GKPhotoBrowser.framework
+${BUILT_PRODUCTS_DIR}/GKSliderView/GKSliderView.framework
+${BUILT_PRODUCTS_DIR}/HXPhotoPicker/HXPhotoPicker.framework
+${BUILT_PRODUCTS_DIR}/IQKeyboardManager/IQKeyboardManager.framework
+${BUILT_PRODUCTS_DIR}/MJExtension/MJExtension.framework
+${BUILT_PRODUCTS_DIR}/MMDrawerController/MMDrawerController.framework
+${BUILT_PRODUCTS_DIR}/Masonry/Masonry.framework
+${BUILT_PRODUCTS_DIR}/SDWebImage/SDWebImage.framework
+${BUILT_PRODUCTS_DIR}/SVProgressHUD/SVProgressHUD.framework
+${BUILT_PRODUCTS_DIR}/TYAlertController/TYAlertController.framework
+${BUILT_PRODUCTS_DIR}/XYUIKit/XYUIKit.framework
+${BUILT_PRODUCTS_DIR}/YYText/YYText.framework

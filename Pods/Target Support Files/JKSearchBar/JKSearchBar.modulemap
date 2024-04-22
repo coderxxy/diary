@@ -1,0 +1,6 @@
+module JKSearchBar {
+  umbrella header "JKSearchBar-umbrella.h"
+
+  export *
+  module * { export * }
+}

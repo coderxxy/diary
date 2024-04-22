@@ -1,0 +1,73 @@
+PODS:
+  - DZNEmptyDataSet (1.8.1)
+  - FMDB (2.7.9):
+    - FMDB/standard (= 2.7.9)
+  - FMDB/standard (2.7.9)
+  - IQKeyboardManager (6.0.6)
+  - JKSearchBar (0.0.2)
+  - Masonry (1.1.0)
+  - MMDrawerController (0.5.7):
+    - MMDrawerController/Core (= 0.5.7)
+    - MMDrawerController/MMDrawerBarButtonItem (= 0.5.7)
+    - MMDrawerController/MMDrawerVisualStates (= 0.5.7)
+    - MMDrawerController/Subclass (= 0.5.7)
+  - MMDrawerController/Core (0.5.7)
+  - MMDrawerController/MMDrawerBarButtonItem (0.5.7):
+    - MMDrawerController/Core
+  - MMDrawerController/MMDrawerVisualStates (0.5.7):
+    - MMDrawerController/Core
+  - MMDrawerController/Subclass (0.5.7):
+    - MMDrawerController/Core
+  - SVProgressHUD (2.2.5)
+  - TYAlertController (1.2.0)
+  - XYUIKit (0.0.1)
+  - YYText (1.0.7)
+
+DEPENDENCIES:
+  - DZNEmptyDataSet
+  - FMDB
+  - IQKeyboardManager (= 6.0.6)
+  - JKSearchBar (~> 0.0.2)
+  - Masonry
+  - MMDrawerController (~> 0.5.7)
+  - SVProgressHUD
+  - TYAlertController
+  - XYUIKit (from `https://gitlab.com/coderJerry/XYUIKit.git`)
+  - YYText
+
+SPEC REPOS:
+  https://mirrors.tuna.tsinghua.edu.cn/git/CocoaPods/Specs.git:
+    - DZNEmptyDataSet
+    - FMDB
+    - IQKeyboardManager
+    - JKSearchBar
+    - Masonry
+    - MMDrawerController
+    - SVProgressHUD
+    - TYAlertController
+    - YYText
+
+EXTERNAL SOURCES:
+  XYUIKit:
+    :git: https://gitlab.com/coderJerry/XYUIKit.git
+
+CHECKOUT OPTIONS:
+  XYUIKit:
+    :commit: 84115a5435f2a2f624c4fdb76692de4dca4feb08
+    :git: https://gitlab.com/coderJerry/XYUIKit.git
+
+SPEC CHECKSUMS:
+  DZNEmptyDataSet: 9525833b9e68ac21c30253e1d3d7076cc828eaa7
+  FMDB: aa44149f6fb634b1ac54f64f47064bb0d0c5a032
+  IQKeyboardManager: 6b4ecd3e59cf55a26133d802d4678721d7f88499
+  JKSearchBar: cac390689f3ba89f1b7c1179ca407466c2f5a4af
+  Masonry: 678fab65091a9290e40e2832a55e7ab731aad201
+  MMDrawerController: 7a4cf8e25596bf2434e03ce50d22a8608ddee6a1
+  SVProgressHUD: 1428aafac632c1f86f62aa4243ec12008d7a51d6
+  TYAlertController: c121090edb0bea7426f987da94cdddd81eef4231
+  XYUIKit: 7ebf4e9e09672063a3740dbae7e7f01790a81f4c
+  YYText: 5c461d709e24d55a182d1441c41dc639a18a4849
+
+PODFILE CHECKSUM: 4932e6a65a110b66a03e272f0d87adcffb9f649e
+
+COCOAPODS: 1.11.3

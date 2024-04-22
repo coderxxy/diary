@@ -1,0 +1,1 @@
+../../../Target Support Files/JKSearchBar/JKSearchBar-umbrella.h
